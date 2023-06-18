@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stoneman-31
-- 👀 I’m interested in working as a data scientist.
+- 👀 I’m interested in working as a data analyst/scientist.
 - 🌱 I’m currently learning ML algo.
 - 💞️ I’m looking to collaborate on all kinds of ML algo project.
 - 📫 How to reach me ... <zhouzhaoqiu1993@gmail.com>
